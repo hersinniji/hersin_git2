@@ -5,5 +5,8 @@ zhangsan = 1705
 
 manager = 1704
 
-over
+ove
 
+
+pay = 1r
+pay = 1r
